@@ -41,6 +41,7 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 - For internal calls, the agent can directly assist users in performing automated tasks. 
 
 ### Callbot sortant – Box Self-Storage
+- Repo: https://github.com/aspirant2018/box-self-storage
 - Outbound callbot for **client satisfaction surveys** and notifications.
 - Technologies: LiveKit, Telnyx, n8n, deployed on AWS.
 
