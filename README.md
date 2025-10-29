@@ -28,16 +28,25 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 
 ### Callbot de prise de rendez-vous – BarberShop
 - Developed a callbot to handle **client appointments via phone**.
-- Technologies: LiveKit, Telnyx, n8n, Google Calendar integration.
+- Technologies: LiveKit, Telnyx, n8n, Google Agenda integration.
 - Automated the booking, confirmation, and notifications.
 - Connected to n8n workflows for calendar synchronization.
+
+### Diamanda: an intern and extern callot:
+- Technologies: LiveKit, Telnyx, n8n, Outlook Calendar integration.
+- Call management logic:
+- For external calls, the call is routed to a reception agent and then redirected to the appropriate department.
+- For internal calls, the agent can directly assist users in performing automated tasks. 
 
 ### Callbot sortant – Box Self-Storage
 - Outbound callbot for **client satisfaction surveys** and notifications.
 - Technologies: LiveKit, Telnyx, n8n, deployed on AWS.
-- Handles **1,000+ calls per week**, with 75% contact rate.
-- Automated tracking of responses from 500+ clients weekly.
-- Reduced operational costs and optimized scheduling.
+
+### Callbot: Company Data collection:
+- Inbound callbot for collection company data
+- Technologies: LiveKit, Telnyx, n8n, deployed on Livekit cloud servers.
+- Estimating the IT park for companies that want to re sell their park.
+
 
 ### Other NLP & LLM Projects
 - Semi-supervised Word Sense Disambiguation (K-means)
