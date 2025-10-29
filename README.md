@@ -53,7 +53,7 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 
 
 ### Other NLP & LLM Projects
-- Semi-supervised Word Sense Disambiguation (K-means)
+- Semi-supervised Word Sense Disambiguation (K-means). Repo: https://github.com/Caegi/Semi_Supervised_Word_Sence_Disambiguation
 - Retrieval-Augmented Generation (RAG) pipelines
 - Fine-tuning Transformers with LoRA / QLoRA
 
