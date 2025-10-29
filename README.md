@@ -51,6 +51,15 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 - Technologies: LiveKit, Telnyx, n8n, deployed on Livekit cloud servers.
 - Estimating the IT park for companies that want to re sell their park.
 
+### Niqatech: 
+Repo: https://github.com/aspirant2018/niqatech-backend
+Development of an innovative application enabling teachers to input students’ grades using their voice. The system uses speech-to-text (STT) for audio transcription, then leverages LangChain to automatically extract structured information (student, subject, grade) and insert it into a grade file.
+- Technologies: Python, FastAPI, LangChain, Whisper (STT), PostgreSQL, Excel
+- Extraction of structured information from transcriptions using LangChain (structured output)
+- Integration of a LangChain-based chatbot component with embeddings, chunking, vector indexing (Qdrant), and re-ranking for accurate responses
+- Implementation of interactive API documentation with Swagger (OpenAPI)
+- Development of a simple and intuitive React.js interface to streamline grade entry
+
 
 ### Other NLP & LLM Projects
 - Semi-supervised Word Sense Disambiguation (K-means). Repo: https://github.com/Caegi/Semi_Supervised_Word_Sence_Disambiguation
