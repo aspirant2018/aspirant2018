@@ -46,7 +46,7 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 - Technologies: LiveKit, Telnyx, n8n, deployed on AWS.
 
 ### Callbot: Company Data collection:
-- Repo: Available soon
+- 🧪 For testing: +33 4 23 33 07 51 (please don’t abuse it when testing 😅🙏)
 - Inbound callbot for collection company data
 - Technologies: LiveKit, Telnyx, n8n, deployed on Livekit cloud servers.
 - Estimating the IT park for companies that want to re sell their park.
