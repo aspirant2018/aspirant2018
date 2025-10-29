@@ -27,6 +27,7 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 ## 📂 Projects
 
 ### Callbot de prise de rendez-vous – BarberShop
+- Repo:  https://github.com/aspirant2018/voice-agent-barber-shop
 - Developed a callbot to handle **client appointments via phone**.
 - Technologies: LiveKit, Telnyx, n8n, Google Agenda integration.
 - Automated the booking, confirmation, and notifications.
