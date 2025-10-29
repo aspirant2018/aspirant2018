@@ -20,7 +20,7 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 - **NLP & LLMs:** Transformers (BERT, GPT), LoRA, QLoRA, PEFT, RAG
 - **Data & Visualization:** Pandas, NumPy, Matplotlib
 - **Evaluation Metrics:** F1, WER, BLEU, Precision, Recall
-- **Languages:** French (Fluent), English (Fluent), Arabic (Bilingual)
+- **Languages:** French (C1), English (C1), Arabic (C2)
 
 ---
 
