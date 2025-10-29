@@ -34,9 +34,10 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 - Connected to n8n workflows for calendar synchronization.
 
 ### Diamanda: an intern and extern callot:
+- Repo: private
 - Technologies: LiveKit, Telnyx, n8n, Outlook Calendar integration.
 - Call management logic:
-- For external calls, the call is routed to a reception agent and then redirected to the appropriate department.
+- For external calls, the call is routed to a reception agent and then redirected to the appropriate department. (cold forwardng)
 - For internal calls, the agent can directly assist users in performing automated tasks. 
 
 ### Callbot sortant – Box Self-Storage
@@ -44,6 +45,7 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 - Technologies: LiveKit, Telnyx, n8n, deployed on AWS.
 
 ### Callbot: Company Data collection:
+- Repo: Available soon
 - Inbound callbot for collection company data
 - Technologies: LiveKit, Telnyx, n8n, deployed on Livekit cloud servers.
 - Estimating the IT park for companies that want to re sell their park.
