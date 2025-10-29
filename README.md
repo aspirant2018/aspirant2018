@@ -47,6 +47,7 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 
 ### Callbot: Company Data collection:
 - 🧪 For testing: +33 4 23 33 07 51 (please don’t abuse it when testing 😅🙏)
+- Repo : https://github.com/aspirant2018/repurchase-resell-livekit/tree/main
 - Inbound callbot for collection company data
 - Technologies: LiveKit, Telnyx, n8n, deployed on Livekit cloud servers.
 - Estimating the IT park for companies that want to re sell their park.
