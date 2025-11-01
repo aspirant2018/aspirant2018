@@ -25,33 +25,14 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 ---
 
 ## 📂 Projects
+Developed several AI-powered callbots using LiveKit, Telnyx, and n8n, integrated with Google or Outlook Calendars and deployed on AWS or LiveKit Cloud.
+Projects include:
 
-### Callbot de prise de rendez-vous – BarberShop
-- Repo:  https://github.com/aspirant2018/voice-agent-barber-shop
-- Developed a callbot to handle **client appointments via phone**.
-- Technologies: LiveKit, Telnyx, n8n, Google Agenda integration.
-- Automated the booking, confirmation, and notifications.
-- Connected to n8n workflows for calendar synchronization.
+- BarberShop Callbot – automated phone-based appointment scheduling and synchronization with Google Agenda.
+- Diamanda – internal and external call management system with intelligent routing and Outlook integration. (W3TEL)
+- Box Self-Storage Callbot – outbound system for client surveys and notifications.
 
-### Diamanda: an intern and extern callot:
-- Repo: private
-- Technologies: LiveKit, Telnyx, n8n, Outlook Calendar integration.
-- Call management logic:
-- For external calls, the call is routed to a reception agent and then redirected to the appropriate department. (cold forwardng)
-- For internal calls, the agent can directly assist users in performing automated tasks. 
-
-### Callbot sortant – Box Self-Storage
-- Repo: https://github.com/aspirant2018/box-self-storage
-- Outbound callbot for **client satisfaction surveys** and notifications.
-- Technologies: LiveKit, Telnyx, n8n, deployed on AWS.
-
-### Callbot: Company Data collection:
-- 🧪 For testing: +33 4 23 33 07 51 (please don’t abuse it when testing 😅🙏)
-- Repo : https://github.com/aspirant2018/repurchase-resell-livekit/tree/main
-- Inbound callbot for collection company data
-- Technologies: LiveKit, Telnyx, n8n, deployed on Livekit cloud servers.
-- Estimating the IT park for companies that want to re sell their park.
-
+Company Data Collection Callbot – inbound assistant for collecting company IT data for resale estimation.
 ### Niqatech: 
 Repo: https://github.com/aspirant2018/niqatech-backend
 Development of an innovative application enabling teachers to input students’ grades using their voice. The system uses speech-to-text (STT) for audio transcription, then leverages LangChain to automatically extract structured information (student, subject, grade) and insert it into a grade file.
