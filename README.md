@@ -26,6 +26,12 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 
 ## 📂 Projects
 
+### NLP & LLM Projects
+- Semi-supervised Word Sense Disambiguation (K-means). Repo: https://github.com/Caegi/Semi_Supervised_Word_Sence_Disambiguation
+- Retrieval-Augmented Generation (RAG) pipelines
+- Fine-tuning Transformers with LoRA / QLoRA
+
+
 ### Callbots
 Developed several AI-powered callbots using LiveKit, Telnyx, and n8n, integrated with Google or Outlook Calendars and deployed on AWS or LiveKit Cloud.
 Projects include:
@@ -44,10 +50,6 @@ Development of an innovative application enabling teachers to input students’ 
 - Development of a simple and intuitive React.js interface to streamline grade entry
 
 
-### Other NLP & LLM Projects
-- Semi-supervised Word Sense Disambiguation (K-means). Repo: https://github.com/Caegi/Semi_Supervised_Word_Sence_Disambiguation
-- Retrieval-Augmented Generation (RAG) pipelines
-- Fine-tuning Transformers with LoRA / QLoRA
 
 ---
 
