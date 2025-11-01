@@ -25,14 +25,15 @@ Welcome to my GitHub! I design and develop intelligent voicebots and callbots us
 ---
 
 ## 📂 Projects
+
+### Callbots
 Developed several AI-powered callbots using LiveKit, Telnyx, and n8n, integrated with Google or Outlook Calendars and deployed on AWS or LiveKit Cloud.
 Projects include:
 
 - BarberShop Callbot – automated phone-based appointment scheduling and synchronization with Google Agenda.
 - Diamanda – internal and external call management system with intelligent routing and Outlook integration. (W3TEL)
 - Box Self-Storage Callbot – outbound system for client surveys and notifications.
-
-Company Data Collection Callbot – inbound assistant for collecting company IT data for resale estimation.
+- Company Data Collection Callbot – inbound assistant for collecting company IT data for resale estimation.
 ### Niqatech: 
 Repo: https://github.com/aspirant2018/niqatech-backend
 Development of an innovative application enabling teachers to input students’ grades using their voice. The system uses speech-to-text (STT) for audio transcription, then leverages LangChain to automatically extract structured information (student, subject, grade) and insert it into a grade file.
